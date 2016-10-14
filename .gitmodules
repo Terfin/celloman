@@ -1,0 +1,6 @@
+[submodule "crm"]
+	path = crm
+	url = https://github.com/Terfin/celloman-crm.git
+[submodule "dal"]
+	path = dal
+	url = https://github.com/Terfin/celloman-dal.git
